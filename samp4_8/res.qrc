@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>addDir.png</file>
+        <file>delete.png</file>
+        <file>float.png</file>
+        <file>height.png</file>
+        <file>magnify.png</file>
+        <file>newFile.png</file>
+        <file>quit.png</file>
+        <file>realsize.png</file>
+        <file>smaller.png</file>
+        <file>traversal.png</file>
+        <file>visible.png</file>
+        <file>width.png</file>
+    </qresource>
+</RCC>
